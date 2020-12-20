@@ -18,17 +18,21 @@ a colorado Board of Elections employee has given me a tasks to follow to complet
 
 ## Summary
 The analysis of the election show that:
-- there were"x" votes cast in the election.
+- there were 369,711 votes cast in the election.
 - The candidates were 
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
+  
 - The candidate results were:
-    - Candidate 1 received "%" of the votes and "#" number of votes.
-    - Candidate 2 received "%" of the votes and "#" number of votes.
-    - Candidate 3 received "%" of the votes and "#" number of votes.
+    - Charles Casper Stockham won 23.0% (85,213) of the votes.
+    - Diana DeGette won 73.8% (272,892) of the votes.
+    - Raymon Anthony Doane won 3.1% (11,606) of the votes.
+    ![candidate votes](https://github.com/benlew3/Election-Analysis/blob/main/img/Candidates_count_percent.PNG)
+  
 - The winner of the election was:
-    - Candidate X, who received "%" of the votes and "#" number of votes.
+    - Candidate Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
+    ![winner statistics](https://github.com/benlew3/Election-Analysis/blob/main/img/winner_stats.PNG)
 
 ## Challenge overview
 
